@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">htmlography</string>
+    <string name="description_text">
+
+         HTML stands for Hyper Text Markup Language \n<br>
+        </br>
+         HTML describes the structure of a Web pages \n<br>
+        </br>
+         HTML consists of a series of elements \n<br>
+        </br>
+         HTML elements tell the browser how to display the content \n<br>
+        </br>
+         HTML elements are represented by tags \n<br>
+    </br>
+
+    </string>
+
+    <string name="questions">
+        1. What is HTML? \n<br>
+    </br>
+        2. What are TAGS?\n<br>
+    </br>
+        3. Do all tags have an end tag?\n<br>
+    </br>
+        4. What is formatting in HTML?\n<br>
+    </br>
+        5. How many types of heading does an HTML contain?\n<br>
+    </br>
+        6. How to create hyperlink in HTML?\n<br>
+    </br>
+        7. What are some common list tags?\n<br>
+    </br>
+        8. What are the tags to represent the data in tabular form?\n<br>
+    </br>
+        9. How to add audio and video data on the web page?\n<br>
+    </br>
+        10. Create a simple web page by using some common tags.
+    </string>
+
+</resources>
